@@ -1,2 +1,3 @@
 # Hello-World
-hello
+Storing Class Practices
+
